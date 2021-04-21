@@ -77,7 +77,6 @@ class CreateAnswer:
                     num = zam_num
 
         logging.info(f"Solving task {num} by {user_id}")
-        print(f"Solving task {num} by {user_id}")
         users_dict[user_id].active_problem = str(num)
         users_dict[user_id].attempt_cnt = '1'
 
@@ -105,7 +104,6 @@ class CreateAnswer:
             messages = self.ans_template(users_dict, user_id, 'нет ответа')
             messages['message'].append('Вы не смогли решить задачу')
             logging.info('#not#' + str(user_id) + ':' + str(users_dict[user_id].active_problem))
-            print('#not#', str(user_id), ':', str(users_dict[user_id].active_problem))
             users_dict[user_id].list_of_not_solved_problems.append(
                 users_dict[user_id].active_problem)
             users_dict[user_id].past_problem = users_dict[user_id].active_problem
@@ -119,7 +117,6 @@ class CreateAnswer:
     def check_answer(self, users_dict, user_id, text_question, question_num):
         if users_dict[user_id].active_problem == '-1':
             logging.info(f"Incorrect command {text_question} by {user_id}")
-            print(f"Incorrect command {text_question} by {user_id}")
             return {'message': ["Неправильный формат ввода"], 'photo': []}
         else:
             flag = False
@@ -142,7 +139,6 @@ class CreateAnswer:
                 messages['message'].insert(0, 'Вы не смогли решить задачу')
 
                 logging.info('##' + str(user_id) + ':' + str(users_dict[user_id].active_problem))
-                print('##', str(user_id), ':', str(users_dict[user_id].active_problem))
 
                 users_dict[user_id].list_of_not_solved_problems.append(
                     users_dict[user_id].active_problem)
