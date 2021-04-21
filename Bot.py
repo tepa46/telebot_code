@@ -6,16 +6,11 @@ import CreateAnswer
 import Config
 
 import requests
-import os
-import random
 import time
 
 import json
 
-import os.path
-
 from copy import deepcopy
-from pprint import pprint
 
 import logging
 from logging import handlers
@@ -51,7 +46,6 @@ class GenericBotHandler:
         if not photo:
             return
         logging.info(f'Sended photo {photo}')
-        print(f'Sended photo {photo}')
         self.api.send_photo(chat_id, photo)
 
     def send_messages(self, user_id, messages):
@@ -153,17 +147,14 @@ def main():
     with open("load.json", 'r', encoding="utf-8-sig") as f:
         ege_data = json.loads(f.read())
         logging.info('Have read load.json')
-        print('Have read load.json')
 
     with open('predmet_ids.json', 'r', encoding="utf-8-sig") as f:
         predmet_ids = json.loads(f.read())
         logging.info('Have read predmet_ids.json')
-        print('Have read predmet_ids.json')
 
     with open('similar_tasks.json', 'r', encoding="utf-8-sig") as f:
         similar_tasks = json.loads(f.read())
         logging.info('Have read similar_tasks.json')
-        print('Have read similar_tasks.json')
 
     users_dict = UserDataManager.load_user_data_manager()
 
@@ -171,13 +162,10 @@ def main():
     tg_offset = 0
     if Config.TG_BOT_ACTIVE:
         logging.info('Tg bot created and will be used')
-        print('Tg bot created and will be used')
     else:
         logging.info("Tg bot created, but won't be used")
-        print("Tg bot created, but won't be used")
 
     logging.info('Bot is ready to use')
-    print('Bot is ready to use')
 
     banned = set()
     msg_count = dict()
@@ -193,7 +181,6 @@ def main():
                         with open("banned_users.txt", 'w', encoding="utf-8") as f:
                             f.write(' '.join(list(banned)))
                         logging.info(f"User {i} was banned")
-                        print(f"User {i} was banned")
                 msg_count = dict()
                 last = time.time()
 
@@ -208,7 +195,6 @@ def main():
                     msg_count[update["chat_id"]] += 1
 
                 logging.info(f"Update: {update}")
-                print(f"Update: {update}")
 
                 chat_id = update["chat_id"]
                 if update["text"]:
