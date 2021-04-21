@@ -386,3 +386,12 @@ Bot.py[LINE:210]# INFO     [2021-04-21 22:38:50,274]  Update: {'chat_id': 'tg528
 Bot.py[LINE:210]# INFO     [2021-04-21 22:38:50,533]  Update: {'chat_id': 'tg528097933', 'text': '/help', 'update_id': 814581594, 'user_name': 'Kirill Shishin'}
 Bot.py[LINE:210]# INFO     [2021-04-21 22:38:50,754]  Update: {'chat_id': 'tg528097933', 'text': '/help', 'update_id': 814581595, 'user_name': 'Kirill Shishin'}
 Bot.py[LINE:210]# INFO     [2021-04-21 22:38:50,964]  Update: {'chat_id': 'tg528097933', 'text': '/help', 'update_id': 814581596, 'user_name': 'Kirill Shishin'}
+Bot.py[LINE:155]# INFO     [2021-04-21 22:50:12,927]  Have read load.json
+Bot.py[LINE:160]# INFO     [2021-04-21 22:50:12,929]  Have read predmet_ids.json
+Bot.py[LINE:165]# INFO     [2021-04-21 22:50:12,946]  Have read similar_tasks.json
+Bot.py[LINE:173]# INFO     [2021-04-21 22:50:12,947]  Tg bot created and will be used
+Bot.py[LINE:179]# INFO     [2021-04-21 22:50:12,947]  Bot is ready to use
+Bot.py[LINE:210]# INFO     [2021-04-21 22:50:13,154]  Update: {'chat_id': 'tg528097933', 'text': '/stats', 'update_id': 814581597, 'user_name': 'Kirill Shishin'}
+Bot.py[LINE:210]# INFO     [2021-04-21 22:50:13,496]  Update: {'chat_id': 'tg528097933', 'text': '/help', 'update_id': 814581598, 'user_name': 'Kirill Shishin'}
+Bot.py[LINE:210]# INFO     [2021-04-21 22:50:20,835]  Update: {'chat_id': 'tg528097933', 'text': '/help', 'update_id': 814581599, 'user_name': 'Kirill Shishin'}
+Bot.py[LINE:210]# INFO     [2021-04-21 22:54:21,383]  Update: {'chat_id': 'tg528097933', 'text': '/help', 'update_id': 814581600, 'user_name': 'Kirill Shishin'}
