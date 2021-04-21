@@ -1,0 +1,388 @@
+main.py[LINE:470]# INFO     [2021-03-26 16:41:01,426]  Have read load.json
+main.py[LINE:475]# INFO     [2021-03-26 16:41:01,427]  Have read predmet_ids.json
+main.py[LINE:480]# INFO     [2021-03-26 16:41:01,444]  Have read similar_tasks.json
+main.py[LINE:488]# INFO     [2021-03-26 16:41:01,446]  Tg bot created and will be used
+main.py[LINE:499]# INFO     [2021-03-26 16:41:01,586]  Vk bot created, but won't be used
+main.py[LINE:502]# INFO     [2021-03-26 16:41:01,586]  Bots are ready to use
+main.py[LINE:533]# INFO     [2021-03-26 16:41:43,755]  Update: {'chat_id': 'tg528097933', 'text': '/stats', 'update_id': 645769579, 'user_name': 'Kirill Shishin'}
+main.py[LINE:533]# INFO     [2021-03-26 16:41:49,337]  Update: {'chat_id': 'tg528097933', 'text': '/start', 'update_id': 645769580, 'user_name': 'Kirill Shishin'}
+main.py[LINE:533]# INFO     [2021-03-26 16:41:53,992]  Update: {'chat_id': 'tg528097933', 'text': '/help', 'update_id': 645769581, 'user_name': 'Kirill Shishin'}
+main.py[LINE:533]# INFO     [2021-03-26 16:42:35,025]  Update: {'chat_id': 'tg268135978', 'text': '/start', 'update_id': 645769582, 'user_name': 'Shtepser Yaroslavl'}
+main.py[LINE:533]# INFO     [2021-03-26 16:42:41,270]  Update: {'chat_id': 'tg268135978', 'text': '/stats', 'update_id': 645769583, 'user_name': 'Shtepser Yaroslavl'}
+main.py[LINE:533]# INFO     [2021-03-26 16:42:46,616]  Update: {'chat_id': 'tg268135978', 'text': '/help', 'update_id': 645769584, 'user_name': 'Shtepser Yaroslavl'}
+main.py[LINE:533]# INFO     [2021-03-26 16:42:49,142]  Update: {'chat_id': 'tg268135978', 'text': '/rand_question', 'update_id': 645769585, 'user_name': 'Shtepser Yaroslavl'}
+main.py[LINE:210]# INFO     [2021-03-26 16:42:49,142]  Solving task 5751 by tg268135978
+main.py[LINE:533]# INFO     [2021-03-26 16:43:01,450]  Update: {'chat_id': 'tg268135978', 'text': '8', 'update_id': 645769586, 'user_name': 'Shtepser Yaroslavl'}
+main.py[LINE:533]# INFO     [2021-03-26 16:43:05,147]  Update: {'chat_id': 'tg268135978', 'text': '3', 'update_id': 645769587, 'user_name': 'Shtepser Yaroslavl'}
+main.py[LINE:533]# INFO     [2021-03-26 16:43:11,176]  Update: {'chat_id': 'tg268135978', 'text': '/stats', 'update_id': 645769588, 'user_name': 'Shtepser Yaroslavl'}
+main.py[LINE:322]# INFO     [2021-04-16 17:27:25,632]  Have read load.json
+main.py[LINE:327]# INFO     [2021-04-16 17:27:25,634]  Have read predmet_ids.json
+main.py[LINE:332]# INFO     [2021-04-16 17:27:25,651]  Have read similar_tasks.json
+main.py[LINE:322]# INFO     [2021-04-16 17:28:32,323]  Have read load.json
+main.py[LINE:327]# INFO     [2021-04-16 17:28:32,325]  Have read predmet_ids.json
+main.py[LINE:332]# INFO     [2021-04-16 17:28:32,344]  Have read similar_tasks.json
+main.py[LINE:340]# INFO     [2021-04-16 17:28:32,345]  Tg bot created and will be used
+main.py[LINE:346]# INFO     [2021-04-16 17:28:32,345]  Bot is ready to use
+main.py[LINE:377]# INFO     [2021-04-16 17:28:42,547]  Update: {'chat_id': 'tg528097933', 'text': '/start', 'update_id': 645769589, 'user_name': 'Kirill Shishin'}
+main.py[LINE:377]# INFO     [2021-04-16 17:29:09,054]  Update: {'chat_id': 'tg528097933', 'text': '/help', 'update_id': 645769590, 'user_name': 'Kirill Shishin'}
+main.py[LINE:377]# INFO     [2021-04-16 17:29:41,643]  Update: {'chat_id': 'tg528097933', 'text': None, 'update_id': 645769591, 'user_name': 'Kirill Shishin'}
+main.py[LINE:377]# INFO     [2021-04-16 17:30:29,972]  Update: {'chat_id': 'tg528097933', 'text': '/rand_question', 'update_id': 645769592, 'user_name': 'Kirill Shishin'}
+main.py[LINE:178]# INFO     [2021-04-16 17:30:29,973]  Solving task 11405 by tg528097933
+main.py[LINE:322]# INFO     [2021-04-16 17:32:28,583]  Have read load.json
+main.py[LINE:327]# INFO     [2021-04-16 17:32:28,586]  Have read predmet_ids.json
+main.py[LINE:332]# INFO     [2021-04-16 17:32:28,626]  Have read similar_tasks.json
+main.py[LINE:340]# INFO     [2021-04-16 17:32:28,627]  Tg bot created and will be used
+main.py[LINE:346]# INFO     [2021-04-16 17:32:28,628]  Bot is ready to use
+main.py[LINE:377]# INFO     [2021-04-16 17:32:32,551]  Update: {'chat_id': 'tg528097933', 'text': '/start', 'update_id': 814581500, 'user_name': 'Kirill Shishin'}
+main.py[LINE:377]# INFO     [2021-04-16 17:32:36,158]  Update: {'chat_id': 'tg528097933', 'text': '/help', 'update_id': 814581501, 'user_name': 'Kirill Shishin'}
+main.py[LINE:377]# INFO     [2021-04-16 17:32:46,698]  Update: {'chat_id': 'tg528097933', 'text': '/stats', 'update_id': 814581502, 'user_name': 'Kirill Shishin'}
+main.py[LINE:377]# INFO     [2021-04-16 17:32:58,115]  Update: {'chat_id': 'tg528097933', 'text': '/get_similar_task', 'update_id': 814581503, 'user_name': 'Kirill Shishin'}
+main.py[LINE:271]# INFO     [2021-04-18 15:02:11,544]  Have read load.json
+main.py[LINE:276]# INFO     [2021-04-18 15:02:11,546]  Have read predmet_ids.json
+main.py[LINE:281]# INFO     [2021-04-18 15:02:11,566]  Have read similar_tasks.json
+main.py[LINE:289]# INFO     [2021-04-18 15:02:11,567]  Tg bot created and will be used
+main.py[LINE:295]# INFO     [2021-04-18 15:02:11,567]  Bot is ready to use
+main.py[LINE:326]# INFO     [2021-04-18 15:03:33,976]  Update: {'chat_id': 'tg528097933', 'text': '/stats', 'update_id': 814581504, 'user_name': 'Kirill Shishin'}
+main.py[LINE:322]# INFO     [2021-04-18 15:03:48,816]  Have read load.json
+main.py[LINE:327]# INFO     [2021-04-18 15:03:48,818]  Have read predmet_ids.json
+main.py[LINE:332]# INFO     [2021-04-18 15:03:48,837]  Have read similar_tasks.json
+main.py[LINE:340]# INFO     [2021-04-18 15:03:48,837]  Tg bot created and will be used
+main.py[LINE:346]# INFO     [2021-04-18 15:03:48,838]  Bot is ready to use
+main.py[LINE:377]# INFO     [2021-04-18 15:03:49,048]  Update: {'chat_id': 'tg528097933', 'text': '/stats', 'update_id': 814581504, 'user_name': 'Kirill Shishin'}
+main.py[LINE:377]# INFO     [2021-04-18 15:03:58,634]  Update: {'chat_id': 'tg528097933', 'text': '/help', 'update_id': 814581505, 'user_name': 'Kirill Shishin'}
+main.py[LINE:332]# INFO     [2021-04-18 16:06:50,042]  Have read load.json
+main.py[LINE:337]# INFO     [2021-04-18 16:06:50,044]  Have read predmet_ids.json
+main.py[LINE:342]# INFO     [2021-04-18 16:06:50,062]  Have read similar_tasks.json
+main.py[LINE:350]# INFO     [2021-04-18 16:06:50,063]  Tg bot created and will be used
+main.py[LINE:356]# INFO     [2021-04-18 16:06:50,063]  Bot is ready to use
+main.py[LINE:387]# INFO     [2021-04-18 16:06:56,684]  Update: {'chat_id': 'tg528097933', 'text': '/rand_question', 'update_id': 814581506, 'user_name': 'Kirill Shishin'}
+main.py[LINE:154]# INFO     [2021-04-18 16:06:56,684]  Solving task 9149 by tg528097933
+main.py[LINE:387]# INFO     [2021-04-18 16:07:11,691]  Update: {'chat_id': 'tg528097933', 'text': '/rand_question', 'update_id': 814581507, 'user_name': 'Kirill Shishin'}
+main.py[LINE:154]# INFO     [2021-04-18 16:07:11,692]  Solving task 19453 by tg528097933
+main.py[LINE:387]# INFO     [2021-04-18 16:07:43,595]  Update: {'chat_id': 'tg528097933', 'text': '/answer', 'update_id': 814581508, 'user_name': 'Kirill Shishin'}
+main.py[LINE:387]# INFO     [2021-04-18 16:07:51,336]  Update: {'chat_id': 'tg528097933', 'text': '/get_answer', 'update_id': 814581509, 'user_name': 'Kirill Shishin'}
+main.py[LINE:219]# INFO     [2021-04-18 16:07:51,854]  #not#tg528097933:19453
+main.py[LINE:387]# INFO     [2021-04-18 16:08:10,027]  Update: {'chat_id': 'tg528097933', 'text': '/get_similar_task', 'update_id': 814581510, 'user_name': 'Kirill Shishin'}
+main.py[LINE:387]# INFO     [2021-04-18 16:08:15,624]  Update: {'chat_id': 'tg528097933', 'text': '/get_answer', 'update_id': 814581511, 'user_name': 'Kirill Shishin'}
+main.py[LINE:219]# INFO     [2021-04-18 16:08:16,213]  #not#tg528097933:19454
+main.py[LINE:332]# INFO     [2021-04-18 16:10:48,927]  Have read load.json
+main.py[LINE:337]# INFO     [2021-04-18 16:10:48,929]  Have read predmet_ids.json
+main.py[LINE:342]# INFO     [2021-04-18 16:10:48,947]  Have read similar_tasks.json
+main.py[LINE:350]# INFO     [2021-04-18 16:10:48,947]  Tg bot created and will be used
+main.py[LINE:356]# INFO     [2021-04-18 16:10:48,948]  Bot is ready to use
+main.py[LINE:387]# INFO     [2021-04-18 16:10:49,134]  Update: {'chat_id': 'tg528097933', 'text': '/get_answer', 'update_id': 814581512, 'user_name': 'Kirill Shishin'}
+main.py[LINE:335]# INFO     [2021-04-18 16:38:46,832]  Have read load.json
+main.py[LINE:340]# INFO     [2021-04-18 16:38:46,834]  Have read predmet_ids.json
+main.py[LINE:345]# INFO     [2021-04-18 16:38:46,851]  Have read similar_tasks.json
+main.py[LINE:353]# INFO     [2021-04-18 16:38:46,852]  Tg bot created and will be used
+main.py[LINE:359]# INFO     [2021-04-18 16:38:46,852]  Bot is ready to use
+main.py[LINE:390]# INFO     [2021-04-18 16:38:51,580]  Update: {'chat_id': 'tg528097933', 'text': '/stats', 'update_id': 814581513, 'user_name': 'Kirill Shishin'}
+main.py[LINE:349]# INFO     [2021-04-18 16:41:52,584]  Have read load.json
+main.py[LINE:354]# INFO     [2021-04-18 16:41:52,586]  Have read predmet_ids.json
+main.py[LINE:359]# INFO     [2021-04-18 16:41:52,604]  Have read similar_tasks.json
+main.py[LINE:367]# INFO     [2021-04-18 16:41:52,605]  Tg bot created and will be used
+main.py[LINE:373]# INFO     [2021-04-18 16:41:52,605]  Bot is ready to use
+main.py[LINE:404]# INFO     [2021-04-18 16:41:52,817]  Update: {'chat_id': 'tg528097933', 'text': '/stats', 'update_id': 814581513, 'user_name': 'Kirill Shishin'}
+main.py[LINE:350]# INFO     [2021-04-18 16:44:50,048]  Have read load.json
+main.py[LINE:355]# INFO     [2021-04-18 16:44:50,049]  Have read predmet_ids.json
+main.py[LINE:360]# INFO     [2021-04-18 16:44:50,068]  Have read similar_tasks.json
+main.py[LINE:368]# INFO     [2021-04-18 16:44:50,068]  Tg bot created and will be used
+main.py[LINE:374]# INFO     [2021-04-18 16:44:50,068]  Bot is ready to use
+main.py[LINE:405]# INFO     [2021-04-18 16:44:50,279]  Update: {'chat_id': 'tg528097933', 'text': '/stats', 'update_id': 814581513, 'user_name': 'Kirill Shishin'}
+main.py[LINE:405]# INFO     [2021-04-18 16:44:55,083]  Update: {'chat_id': 'tg528097933', 'text': '/stats', 'update_id': 814581514, 'user_name': 'Kirill Shishin'}
+main.py[LINE:350]# INFO     [2021-04-18 16:45:30,697]  Have read load.json
+main.py[LINE:355]# INFO     [2021-04-18 16:45:30,699]  Have read predmet_ids.json
+main.py[LINE:360]# INFO     [2021-04-18 16:45:30,717]  Have read similar_tasks.json
+main.py[LINE:368]# INFO     [2021-04-18 16:45:30,718]  Tg bot created and will be used
+main.py[LINE:374]# INFO     [2021-04-18 16:45:30,718]  Bot is ready to use
+main.py[LINE:405]# INFO     [2021-04-18 16:45:35,342]  Update: {'chat_id': 'tg528097933', 'text': '/stats', 'update_id': 814581515, 'user_name': 'Kirill Shishin'}
+main.py[LINE:229]# INFO     [2021-04-18 17:56:39,571]  Have read load.json
+main.py[LINE:234]# INFO     [2021-04-18 17:56:39,573]  Have read predmet_ids.json
+main.py[LINE:239]# INFO     [2021-04-18 17:56:39,599]  Have read similar_tasks.json
+main.py[LINE:247]# INFO     [2021-04-18 17:56:39,600]  Tg bot created and will be used
+main.py[LINE:253]# INFO     [2021-04-18 17:56:39,600]  Bot is ready to use
+main.py[LINE:284]# INFO     [2021-04-18 17:56:46,490]  Update: {'chat_id': 'tg528097933', 'text': '/stats', 'update_id': 814581516, 'user_name': 'Kirill Shishin'}
+main.py[LINE:284]# INFO     [2021-04-18 17:56:53,074]  Update: {'chat_id': 'tg528097933', 'text': '/help', 'update_id': 814581517, 'user_name': 'Kirill Shishin'}
+main.py[LINE:284]# INFO     [2021-04-18 17:56:54,766]  Update: {'chat_id': 'tg528097933', 'text': '/rand_question', 'update_id': 814581518, 'user_name': 'Kirill Shishin'}
+main.py[LINE:147]# INFO     [2021-04-18 17:56:54,767]  Solving task 27209 by tg528097933
+main.py[LINE:56]# INFO     [2021-04-18 17:56:55,209]  Sended photo https://avatars.mds.yandex.net/get-tutor/1521001/2e6d31db-8f87-4b10-806b-b649a0f7bf4b.png/orig
+main.py[LINE:284]# INFO     [2021-04-18 17:57:21,220]  Update: {'chat_id': 'tg528097933', 'text': '/get_answer', 'update_id': 814581519, 'user_name': 'Kirill Shishin'}
+main.py[LINE:225]# INFO     [2021-04-18 17:57:54,507]  Have read load.json
+main.py[LINE:230]# INFO     [2021-04-18 17:57:54,509]  Have read predmet_ids.json
+main.py[LINE:235]# INFO     [2021-04-18 17:57:54,529]  Have read similar_tasks.json
+main.py[LINE:243]# INFO     [2021-04-18 17:57:54,529]  Tg bot created and will be used
+main.py[LINE:249]# INFO     [2021-04-18 17:57:54,530]  Bot is ready to use
+main.py[LINE:280]# INFO     [2021-04-18 17:57:54,718]  Update: {'chat_id': 'tg528097933', 'text': '/get_answer', 'update_id': 814581519, 'user_name': 'Kirill Shishin'}
+main.py[LINE:79]# INFO     [2021-04-18 17:57:55,205]  #not#tg528097933:27209
+main.py[LINE:280]# INFO     [2021-04-18 17:58:41,869]  Update: {'chat_id': 'tg528097933', 'text': '/help', 'update_id': 814581520, 'user_name': 'Kirill Shishin'}
+main.py[LINE:280]# INFO     [2021-04-18 17:58:45,389]  Update: {'chat_id': 'tg528097933', 'text': '/get_similar_task', 'update_id': 814581521, 'user_name': 'Kirill Shishin'}
+main.py[LINE:225]# INFO     [2021-04-18 18:11:51,240]  Have read load.json
+main.py[LINE:230]# INFO     [2021-04-18 18:11:51,242]  Have read predmet_ids.json
+main.py[LINE:235]# INFO     [2021-04-18 18:11:51,260]  Have read similar_tasks.json
+main.py[LINE:243]# INFO     [2021-04-18 18:11:51,261]  Tg bot created and will be used
+main.py[LINE:249]# INFO     [2021-04-18 18:11:51,261]  Bot is ready to use
+main.py[LINE:280]# INFO     [2021-04-18 18:11:51,460]  Update: {'chat_id': 'tg528097933', 'text': '/get_similar_task', 'update_id': 814581521, 'user_name': 'Kirill Shishin'}
+main.py[LINE:56]# INFO     [2021-04-18 18:11:51,960]  Sended photo https://avatars.mds.yandex.net/get-tutor/1514036/02e70b0211f0a13c5163bfdbd27805b1/orig
+main.py[LINE:280]# INFO     [2021-04-18 18:11:59,834]  Update: {'chat_id': 'tg528097933', 'text': '/help', 'update_id': 814581522, 'user_name': 'Kirill Shishin'}
+main.py[LINE:280]# INFO     [2021-04-18 18:12:02,763]  Update: {'chat_id': 'tg528097933', 'text': '/rand_question', 'update_id': 814581523, 'user_name': 'Kirill Shishin'}
+main.py[LINE:143]# INFO     [2021-04-18 18:12:02,764]  Solving task 19478 by tg528097933
+main.py[LINE:280]# INFO     [2021-04-18 18:12:07,285]  Update: {'chat_id': 'tg528097933', 'text': '/get_answer', 'update_id': 814581524, 'user_name': 'Kirill Shishin'}
+main.py[LINE:79]# INFO     [2021-04-18 18:12:07,737]  #not#tg528097933:19478
+main.py[LINE:280]# INFO     [2021-04-18 18:12:09,572]  Update: {'chat_id': 'tg528097933', 'text': '/get_similar_task', 'update_id': 814581525, 'user_name': 'Kirill Shishin'}
+main.py[LINE:280]# INFO     [2021-04-18 18:12:11,715]  Update: {'chat_id': 'tg528097933', 'text': '/get_answer', 'update_id': 814581526, 'user_name': 'Kirill Shishin'}
+main.py[LINE:79]# INFO     [2021-04-18 18:12:12,152]  #not#tg528097933:19479
+main.py[LINE:280]# INFO     [2021-04-18 18:12:13,243]  Update: {'chat_id': 'tg528097933', 'text': '/stats', 'update_id': 814581527, 'user_name': 'Kirill Shishin'}
+main.py[LINE:226]# INFO     [2021-04-18 18:16:52,125]  Have read load.json
+main.py[LINE:231]# INFO     [2021-04-18 18:16:52,128]  Have read predmet_ids.json
+main.py[LINE:236]# INFO     [2021-04-18 18:16:52,147]  Have read similar_tasks.json
+main.py[LINE:244]# INFO     [2021-04-18 18:16:52,147]  Tg bot created and will be used
+main.py[LINE:250]# INFO     [2021-04-18 18:16:52,148]  Bot is ready to use
+main.py[LINE:281]# INFO     [2021-04-18 18:16:52,352]  Update: {'chat_id': 'tg528097933', 'text': '/stats', 'update_id': 814581527, 'user_name': 'Kirill Shishin'}
+main.py[LINE:226]# INFO     [2021-04-18 18:17:59,468]  Have read load.json
+main.py[LINE:231]# INFO     [2021-04-18 18:17:59,470]  Have read predmet_ids.json
+main.py[LINE:236]# INFO     [2021-04-18 18:17:59,490]  Have read similar_tasks.json
+main.py[LINE:244]# INFO     [2021-04-18 18:17:59,490]  Tg bot created and will be used
+main.py[LINE:250]# INFO     [2021-04-18 18:17:59,491]  Bot is ready to use
+main.py[LINE:281]# INFO     [2021-04-18 18:17:59,716]  Update: {'chat_id': 'tg528097933', 'text': '/stats', 'update_id': 814581527, 'user_name': 'Kirill Shishin'}
+main.py[LINE:281]# INFO     [2021-04-18 18:18:03,355]  Update: {'chat_id': 'tg528097933', 'text': '/help', 'update_id': 814581528, 'user_name': 'Kirill Shishin'}
+main.py[LINE:281]# INFO     [2021-04-18 18:18:05,017]  Update: {'chat_id': 'tg528097933', 'text': '/rand_question', 'update_id': 814581529, 'user_name': 'Kirill Shishin'}
+main.py[LINE:149]# INFO     [2021-04-18 18:18:05,019]  Solving task 19266 by tg528097933
+main.py[LINE:281]# INFO     [2021-04-18 18:18:09,523]  Update: {'chat_id': 'tg528097933', 'text': '/get_answer', 'update_id': 814581530, 'user_name': 'Kirill Shishin'}
+main.py[LINE:85]# INFO     [2021-04-18 18:18:10,033]  #not#tg528097933:19266
+main.py[LINE:281]# INFO     [2021-04-18 18:18:13,357]  Update: {'chat_id': 'tg528097933', 'text': '/get_similar_task', 'update_id': 814581531, 'user_name': 'Kirill Shishin'}
+main.py[LINE:281]# INFO     [2021-04-18 18:18:40,533]  Update: {'chat_id': 'tg528097933', 'text': '/get_answer', 'update_id': 814581532, 'user_name': 'Kirill Shishin'}
+main.py[LINE:85]# INFO     [2021-04-18 18:18:40,984]  #not#tg528097933:19476
+main.py[LINE:281]# INFO     [2021-04-18 18:18:43,647]  Update: {'chat_id': 'tg528097933', 'text': '/stats', 'update_id': 814581533, 'user_name': 'Kirill Shishin'}
+main.py[LINE:281]# INFO     [2021-04-18 18:18:56,293]  Update: {'chat_id': 'tg528097933', 'text': '/rand_question', 'update_id': 814581534, 'user_name': 'Kirill Shishin'}
+main.py[LINE:149]# INFO     [2021-04-18 18:18:56,294]  Solving task 19475 by tg528097933
+main.py[LINE:281]# INFO     [2021-04-18 18:19:10,424]  Update: {'chat_id': 'tg528097933', 'text': '1', 'update_id': 814581535, 'user_name': 'Kirill Shishin'}
+main.py[LINE:281]# INFO     [2021-04-18 18:19:10,826]  Update: {'chat_id': 'tg528097933', 'text': '2', 'update_id': 814581536, 'user_name': 'Kirill Shishin'}
+main.py[LINE:120]# INFO     [2021-04-18 18:19:11,266]  ##tg528097933:19475
+main.py[LINE:281]# INFO     [2021-04-18 18:19:11,464]  Update: {'chat_id': 'tg528097933', 'text': '3', 'update_id': 814581537, 'user_name': 'Kirill Shishin'}
+main.py[LINE:97]# INFO     [2021-04-18 18:19:11,464]  Incorrect command 3 by tg528097933
+main.py[LINE:281]# INFO     [2021-04-18 18:19:25,275]  Update: {'chat_id': 'tg528097933', 'text': '/get_similar_task', 'update_id': 814581538, 'user_name': 'Kirill Shishin'}
+main.py[LINE:281]# INFO     [2021-04-18 18:19:32,296]  Update: {'chat_id': 'tg528097933', 'text': '1', 'update_id': 814581539, 'user_name': 'Kirill Shishin'}
+main.py[LINE:281]# INFO     [2021-04-18 18:19:32,726]  Update: {'chat_id': 'tg528097933', 'text': '2', 'update_id': 814581540, 'user_name': 'Kirill Shishin'}
+main.py[LINE:281]# INFO     [2021-04-18 18:19:48,130]  Update: {'chat_id': 'tg528097933', 'text': '/get_similar_task', 'update_id': 814581541, 'user_name': 'Kirill Shishin'}
+main.py[LINE:281]# INFO     [2021-04-18 18:19:52,712]  Update: {'chat_id': 'tg528097933', 'text': '1', 'update_id': 814581542, 'user_name': 'Kirill Shishin'}
+main.py[LINE:281]# INFO     [2021-04-18 18:19:53,194]  Update: {'chat_id': 'tg528097933', 'text': '2', 'update_id': 814581543, 'user_name': 'Kirill Shishin'}
+main.py[LINE:120]# INFO     [2021-04-18 18:19:53,846]  ##tg528097933:19265
+main.py[LINE:281]# INFO     [2021-04-18 18:20:03,993]  Update: {'chat_id': 'tg528097933', 'text': '/stats', 'update_id': 814581544, 'user_name': 'Kirill Shishin'}
+main.py[LINE:281]# INFO     [2021-04-18 18:20:08,277]  Update: {'chat_id': 'tg528097933', 'text': '/get_answer', 'update_id': 814581545, 'user_name': 'Kirill Shishin'}
+main.py[LINE:226]# INFO     [2021-04-18 18:20:40,382]  Have read load.json
+main.py[LINE:231]# INFO     [2021-04-18 18:20:40,384]  Have read predmet_ids.json
+main.py[LINE:236]# INFO     [2021-04-18 18:20:40,403]  Have read similar_tasks.json
+main.py[LINE:244]# INFO     [2021-04-18 18:20:40,404]  Tg bot created and will be used
+main.py[LINE:250]# INFO     [2021-04-18 18:20:40,404]  Bot is ready to use
+main.py[LINE:281]# INFO     [2021-04-18 18:20:45,597]  Update: {'chat_id': 'tg528097933', 'text': '/get_answer', 'update_id': 814581546, 'user_name': 'Kirill Shishin'}
+main.py[LINE:281]# INFO     [2021-04-18 18:20:54,774]  Update: {'chat_id': 'tg528097933', 'text': '/rand_question', 'update_id': 814581547, 'user_name': 'Kirill Shishin'}
+main.py[LINE:149]# INFO     [2021-04-18 18:20:54,776]  Solving task 25201 by tg528097933
+main.py[LINE:281]# INFO     [2021-04-18 18:20:58,268]  Update: {'chat_id': 'tg528097933', 'text': '`1', 'update_id': 814581548, 'user_name': 'Kirill Shishin'}
+main.py[LINE:281]# INFO     [2021-04-18 18:20:58,888]  Update: {'chat_id': 'tg528097933', 'text': '1', 'update_id': 814581549, 'user_name': 'Kirill Shishin'}
+main.py[LINE:120]# INFO     [2021-04-18 18:20:59,346]  ##tg528097933:25201
+main.py[LINE:281]# INFO     [2021-04-18 18:21:12,065]  Update: {'chat_id': 'tg528097933', 'text': '/rand_question', 'update_id': 814581550, 'user_name': 'Kirill Shishin'}
+main.py[LINE:149]# INFO     [2021-04-18 18:21:12,066]  Solving task 24983 by tg528097933
+main.py[LINE:281]# INFO     [2021-04-18 18:21:14,902]  Update: {'chat_id': 'tg528097933', 'text': '1', 'update_id': 814581551, 'user_name': 'Kirill Shishin'}
+main.py[LINE:281]# INFO     [2021-04-18 18:21:15,291]  Update: {'chat_id': 'tg528097933', 'text': '2', 'update_id': 814581552, 'user_name': 'Kirill Shishin'}
+main.py[LINE:120]# INFO     [2021-04-18 18:21:15,734]  ##tg528097933:24983
+main.py[LINE:281]# INFO     [2021-04-18 18:21:21,600]  Update: {'chat_id': 'tg528097933', 'text': '/get_answer', 'update_id': 814581553, 'user_name': 'Kirill Shishin'}
+main.py[LINE:281]# INFO     [2021-04-18 18:21:28,564]  Update: {'chat_id': 'tg528097933', 'text': '/rand_question', 'update_id': 814581554, 'user_name': 'Kirill Shishin'}
+main.py[LINE:149]# INFO     [2021-04-18 18:21:28,565]  Solving task 14740 by tg528097933
+main.py[LINE:281]# INFO     [2021-04-18 18:21:35,499]  Update: {'chat_id': 'tg528097933', 'text': '1', 'update_id': 814581555, 'user_name': 'Kirill Shishin'}
+main.py[LINE:281]# INFO     [2021-04-18 18:21:35,900]  Update: {'chat_id': 'tg528097933', 'text': '2', 'update_id': 814581556, 'user_name': 'Kirill Shishin'}
+main.py[LINE:120]# INFO     [2021-04-18 18:21:36,373]  ##tg528097933:14740
+main.py[LINE:281]# INFO     [2021-04-18 18:21:44,479]  Update: {'chat_id': 'tg528097933', 'text': '/rand_question', 'update_id': 814581557, 'user_name': 'Kirill Shishin'}
+main.py[LINE:149]# INFO     [2021-04-18 18:21:44,479]  Solving task 19727 by tg528097933
+main.py[LINE:56]# INFO     [2021-04-18 18:21:44,970]  Sended photo https://avatars.mds.yandex.net/get-tutor/1548979/2b9fa00e-f0d2-4d85-a5f1-f7faf4d70406.png/orig
+main.py[LINE:281]# INFO     [2021-04-18 18:21:53,692]  Update: {'chat_id': 'tg528097933', 'text': '12', 'update_id': 814581558, 'user_name': 'Kirill Shishin'}
+main.py[LINE:281]# INFO     [2021-04-18 18:22:03,905]  Update: {'chat_id': 'tg528097933', 'text': '/get_similar_task', 'update_id': 814581559, 'user_name': 'Kirill Shishin'}
+main.py[LINE:56]# INFO     [2021-04-18 18:22:04,366]  Sended photo https://avatars.mds.yandex.net/get-tutor/1540135/63b2d526-59c1-41e4-984a-39d76e8e8bfa.png/orig
+main.py[LINE:281]# INFO     [2021-04-18 18:22:27,895]  Update: {'chat_id': 'tg528097933', 'text': '14', 'update_id': 814581560, 'user_name': 'Kirill Shishin'}
+main.py[LINE:281]# INFO     [2021-04-18 18:22:29,494]  Update: {'chat_id': 'tg528097933', 'text': '15', 'update_id': 814581561, 'user_name': 'Kirill Shishin'}
+main.py[LINE:163]# INFO     [2021-04-18 18:42:47,990]  Have read load.json
+main.py[LINE:168]# INFO     [2021-04-18 18:42:47,992]  Have read predmet_ids.json
+main.py[LINE:173]# INFO     [2021-04-18 18:42:48,014]  Have read similar_tasks.json
+main.py[LINE:181]# INFO     [2021-04-18 18:42:48,015]  Tg bot created and will be used
+main.py[LINE:187]# INFO     [2021-04-18 18:42:48,015]  Bot is ready to use
+main.py[LINE:163]# INFO     [2021-04-18 18:43:00,375]  Have read load.json
+main.py[LINE:168]# INFO     [2021-04-18 18:43:00,377]  Have read predmet_ids.json
+main.py[LINE:173]# INFO     [2021-04-18 18:43:00,397]  Have read similar_tasks.json
+main.py[LINE:163]# INFO     [2021-04-18 18:43:06,410]  Have read load.json
+main.py[LINE:168]# INFO     [2021-04-18 18:43:06,412]  Have read predmet_ids.json
+main.py[LINE:173]# INFO     [2021-04-18 18:43:06,432]  Have read similar_tasks.json
+main.py[LINE:181]# INFO     [2021-04-18 18:43:06,433]  Tg bot created and will be used
+main.py[LINE:187]# INFO     [2021-04-18 18:43:06,433]  Bot is ready to use
+main.py[LINE:218]# INFO     [2021-04-18 18:43:09,765]  Update: {'chat_id': 'tg528097933', 'text': '/help', 'update_id': 814581562, 'user_name': 'Kirill Shishin'}
+main.py[LINE:218]# INFO     [2021-04-18 18:43:12,534]  Update: {'chat_id': 'tg528097933', 'text': '/stats', 'update_id': 814581563, 'user_name': 'Kirill Shishin'}
+main.py[LINE:218]# INFO     [2021-04-18 18:43:35,032]  Update: {'chat_id': 'tg528097933', 'text': '/rand_question', 'update_id': 814581564, 'user_name': 'Kirill Shishin'}
+main.py[LINE:88]# INFO     [2021-04-18 18:43:35,481]  Solving task 4799 by tg528097933
+main.py[LINE:162]# INFO     [2021-04-18 18:45:30,938]  Have read load.json
+main.py[LINE:167]# INFO     [2021-04-18 18:45:30,940]  Have read predmet_ids.json
+main.py[LINE:172]# INFO     [2021-04-18 18:45:30,961]  Have read similar_tasks.json
+main.py[LINE:180]# INFO     [2021-04-18 18:45:30,962]  Tg bot created and will be used
+main.py[LINE:186]# INFO     [2021-04-18 18:45:30,962]  Bot is ready to use
+main.py[LINE:217]# INFO     [2021-04-18 18:45:40,713]  Update: {'chat_id': 'tg528097933', 'text': '/get_similar_task', 'update_id': 814581565, 'user_name': 'Kirill Shishin'}
+main.py[LINE:217]# INFO     [2021-04-18 18:49:55,178]  Update: {'chat_id': 'tg528097933', 'text': '/rand_question', 'update_id': 814581566, 'user_name': 'Kirill Shishin'}
+main.py[LINE:86]# INFO     [2021-04-18 18:49:55,645]  Solving task 9825 by tg528097933
+main.py[LINE:217]# INFO     [2021-04-18 18:49:57,023]  Update: {'chat_id': 'tg528097933', 'text': 'q', 'update_id': 814581567, 'user_name': 'Kirill Shishin'}
+main.py[LINE:217]# INFO     [2021-04-18 18:50:10,543]  Update: {'chat_id': 'tg528097933', 'text': '4', 'update_id': 814581568, 'user_name': 'Kirill Shishin'}
+CreateAnswer.py[LINE:130]# INFO     [2021-04-18 18:50:10,543]  ##tg528097933:9825
+main.py[LINE:162]# INFO     [2021-04-18 18:50:44,920]  Have read load.json
+main.py[LINE:167]# INFO     [2021-04-18 18:50:44,922]  Have read predmet_ids.json
+main.py[LINE:172]# INFO     [2021-04-18 18:50:44,941]  Have read similar_tasks.json
+main.py[LINE:180]# INFO     [2021-04-18 18:50:44,942]  Tg bot created and will be used
+main.py[LINE:186]# INFO     [2021-04-18 18:50:44,942]  Bot is ready to use
+main.py[LINE:162]# INFO     [2021-04-18 18:51:04,159]  Have read load.json
+main.py[LINE:167]# INFO     [2021-04-18 18:51:04,161]  Have read predmet_ids.json
+main.py[LINE:172]# INFO     [2021-04-18 18:51:04,182]  Have read similar_tasks.json
+main.py[LINE:180]# INFO     [2021-04-18 18:51:04,182]  Tg bot created and will be used
+main.py[LINE:186]# INFO     [2021-04-18 18:51:04,183]  Bot is ready to use
+main.py[LINE:217]# INFO     [2021-04-18 18:51:15,421]  Update: {'chat_id': 'tg528097933', 'text': '/rand_question', 'update_id': 814581569, 'user_name': 'Kirill Shishin'}
+main.py[LINE:86]# INFO     [2021-04-18 18:51:15,877]  Solving task 11345 by tg528097933
+main.py[LINE:217]# INFO     [2021-04-18 18:51:17,787]  Update: {'chat_id': 'tg528097933', 'text': '2', 'update_id': 814581570, 'user_name': 'Kirill Shishin'}
+main.py[LINE:217]# INFO     [2021-04-18 18:51:18,202]  Update: {'chat_id': 'tg528097933', 'text': '3', 'update_id': 814581571, 'user_name': 'Kirill Shishin'}
+CreateAnswer.py[LINE:143]# INFO     [2021-04-18 18:51:18,202]  ##tg528097933:11345
+main.py[LINE:217]# INFO     [2021-04-18 18:52:15,125]  Update: {'chat_id': 'tg528097933', 'text': '/rand_question', 'update_id': 814581572, 'user_name': 'Kirill Shishin'}
+main.py[LINE:86]# INFO     [2021-04-18 18:52:15,555]  Solving task 7508 by tg528097933
+main.py[LINE:217]# INFO     [2021-04-18 18:52:16,303]  Update: {'chat_id': 'tg528097933', 'text': '1', 'update_id': 814581573, 'user_name': 'Kirill Shishin'}
+main.py[LINE:217]# INFO     [2021-04-18 18:52:28,438]  Update: {'chat_id': 'tg528097933', 'text': '2', 'update_id': 814581574, 'user_name': 'Kirill Shishin'}
+CreateAnswer.py[LINE:143]# INFO     [2021-04-18 18:52:28,439]  ##tg528097933:7508
+main.py[LINE:162]# INFO     [2021-04-18 18:53:39,247]  Have read load.json
+main.py[LINE:167]# INFO     [2021-04-18 18:53:39,249]  Have read predmet_ids.json
+main.py[LINE:172]# INFO     [2021-04-18 18:53:39,267]  Have read similar_tasks.json
+main.py[LINE:180]# INFO     [2021-04-18 18:53:39,268]  Tg bot created and will be used
+main.py[LINE:186]# INFO     [2021-04-18 18:53:39,268]  Bot is ready to use
+main.py[LINE:217]# INFO     [2021-04-18 18:53:39,458]  Update: {'chat_id': 'tg528097933', 'text': '/similar_question', 'update_id': 814581575, 'user_name': 'Kirill Shishin'}
+CreateAnswer.py[LINE:120]# INFO     [2021-04-18 18:53:39,458]  Incorrect command /similar_question by tg528097933
+main.py[LINE:217]# INFO     [2021-04-18 18:53:39,679]  Update: {'chat_id': 'tg528097933', 'text': '/get_similar_task', 'update_id': 814581576, 'user_name': 'Kirill Shishin'}
+main.py[LINE:217]# INFO     [2021-04-18 18:55:05,406]  Update: {'chat_id': 'tg528097933', 'text': '1', 'update_id': 814581577, 'user_name': 'Kirill Shishin'}
+main.py[LINE:217]# INFO     [2021-04-18 18:55:05,955]  Update: {'chat_id': 'tg528097933', 'text': '2', 'update_id': 814581578, 'user_name': 'Kirill Shishin'}
+CreateAnswer.py[LINE:143]# INFO     [2021-04-18 18:55:05,955]  ##tg528097933:3420
+main.py[LINE:217]# INFO     [2021-04-18 18:55:14,480]  Update: {'chat_id': 'tg528097933', 'text': '/rand_question', 'update_id': 814581579, 'user_name': 'Kirill Shishin'}
+main.py[LINE:86]# INFO     [2021-04-18 18:55:14,951]  Solving task 2259 by tg528097933
+main.py[LINE:217]# INFO     [2021-04-18 18:55:20,225]  Update: {'chat_id': 'tg528097933', 'text': '1', 'update_id': 814581580, 'user_name': 'Kirill Shishin'}
+main.py[LINE:217]# INFO     [2021-04-18 18:55:25,006]  Update: {'chat_id': 'tg528097933', 'text': '2', 'update_id': 814581581, 'user_name': 'Kirill Shishin'}
+CreateAnswer.py[LINE:143]# INFO     [2021-04-18 18:55:25,007]  ##tg528097933:2259
+main.py[LINE:217]# INFO     [2021-04-18 18:55:34,144]  Update: {'chat_id': 'tg528097933', 'text': '/get_similar_task', 'update_id': 814581582, 'user_name': 'Kirill Shishin'}
+main.py[LINE:217]# INFO     [2021-04-18 18:55:40,582]  Update: {'chat_id': 'tg528097933', 'text': '3', 'update_id': 814581583, 'user_name': 'Kirill Shishin'}
+main.py[LINE:217]# INFO     [2021-04-18 18:55:41,813]  Update: {'chat_id': 'tg528097933', 'text': '4', 'update_id': 814581584, 'user_name': 'Kirill Shishin'}
+CreateAnswer.py[LINE:143]# INFO     [2021-04-18 18:55:41,813]  ##tg528097933:9238
+Bot.py[LINE:155]# INFO     [2021-04-18 19:33:43,213]  Have read load.json
+Bot.py[LINE:160]# INFO     [2021-04-18 19:33:43,215]  Have read predmet_ids.json
+Bot.py[LINE:165]# INFO     [2021-04-18 19:33:43,237]  Have read similar_tasks.json
+Bot.py[LINE:173]# INFO     [2021-04-18 19:33:43,238]  Tg bot created and will be used
+Bot.py[LINE:179]# INFO     [2021-04-18 19:33:43,238]  Bot is ready to use
+Bot.py[LINE:210]# INFO     [2021-04-18 19:33:52,017]  Update: {'chat_id': 'tg528097933', 'text': 'help', 'update_id': 814581585, 'user_name': 'Kirill Shishin'}
+CreateAnswer.py[LINE:121]# INFO     [2021-04-18 19:33:52,018]  Incorrect command help by tg528097933
+Bot.py[LINE:210]# INFO     [2021-04-18 19:33:53,295]  Update: {'chat_id': 'tg528097933', 'text': '/help', 'update_id': 814581586, 'user_name': 'Kirill Shishin'}
+Bot.py[LINE:210]# INFO     [2021-04-18 19:33:59,727]  Update: {'chat_id': 'tg528097933', 'text': '/stats', 'update_id': 814581587, 'user_name': 'Kirill Shishin'}
+Bot.py[LINE:155]# INFO     [2021-04-18 21:09:13,402]  Have read load.json
+Bot.py[LINE:160]# INFO     [2021-04-18 21:09:13,405]  Have read predmet_ids.json
+Bot.py[LINE:165]# INFO     [2021-04-18 21:09:13,424]  Have read similar_tasks.json
+Bot.py[LINE:173]# INFO     [2021-04-18 21:09:13,424]  Tg bot created and will be used
+Bot.py[LINE:179]# INFO     [2021-04-18 21:09:13,425]  Bot is ready to use
+Bot.py[LINE:155]# INFO     [2021-04-18 21:09:39,470]  Have read load.json
+Bot.py[LINE:160]# INFO     [2021-04-18 21:09:39,472]  Have read predmet_ids.json
+Bot.py[LINE:165]# INFO     [2021-04-18 21:09:39,490]  Have read similar_tasks.json
+Bot.py[LINE:173]# INFO     [2021-04-18 21:09:39,491]  Tg bot created and will be used
+Bot.py[LINE:179]# INFO     [2021-04-18 21:09:39,492]  Bot is ready to use
+Bot.py[LINE:155]# INFO     [2021-04-18 21:09:56,394]  Have read load.json
+Bot.py[LINE:160]# INFO     [2021-04-18 21:09:56,396]  Have read predmet_ids.json
+Bot.py[LINE:165]# INFO     [2021-04-18 21:09:56,414]  Have read similar_tasks.json
+Bot.py[LINE:173]# INFO     [2021-04-18 21:09:56,439]  Tg bot created and will be used
+Bot.py[LINE:179]# INFO     [2021-04-18 21:09:56,439]  Bot is ready to use
+Bot.py[LINE:155]# INFO     [2021-04-18 21:11:47,675]  Have read load.json
+Bot.py[LINE:160]# INFO     [2021-04-18 21:11:47,678]  Have read predmet_ids.json
+Bot.py[LINE:165]# INFO     [2021-04-18 21:11:47,696]  Have read similar_tasks.json
+Bot.py[LINE:173]# INFO     [2021-04-18 21:11:47,697]  Tg bot created and will be used
+Bot.py[LINE:179]# INFO     [2021-04-18 21:11:47,697]  Bot is ready to use
+Bot.py[LINE:155]# INFO     [2021-04-18 21:12:04,467]  Have read load.json
+Bot.py[LINE:160]# INFO     [2021-04-18 21:12:04,469]  Have read predmet_ids.json
+Bot.py[LINE:165]# INFO     [2021-04-18 21:12:04,490]  Have read similar_tasks.json
+Bot.py[LINE:173]# INFO     [2021-04-18 21:12:04,491]  Tg bot created and will be used
+Bot.py[LINE:179]# INFO     [2021-04-18 21:12:04,491]  Bot is ready to use
+Bot.py[LINE:210]# INFO     [2021-04-18 21:12:19,140]  Update: {'chat_id': 'tg528097933', 'text': '/stats', 'update_id': 814581588, 'user_name': 'Kirill Shishin'}
+Bot.py[LINE:155]# INFO     [2021-04-18 21:12:36,059]  Have read load.json
+Bot.py[LINE:160]# INFO     [2021-04-18 21:12:36,061]  Have read predmet_ids.json
+Bot.py[LINE:165]# INFO     [2021-04-18 21:12:36,080]  Have read similar_tasks.json
+Bot.py[LINE:173]# INFO     [2021-04-18 21:12:36,080]  Tg bot created and will be used
+Bot.py[LINE:179]# INFO     [2021-04-18 21:12:36,081]  Bot is ready to use
+_internal.py[LINE:113]# INFO     [2021-04-18 21:12:41,113]   * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+Bot.py[LINE:155]# INFO     [2021-04-18 21:12:53,936]  Have read load.json
+Bot.py[LINE:160]# INFO     [2021-04-18 21:12:53,938]  Have read predmet_ids.json
+Bot.py[LINE:165]# INFO     [2021-04-18 21:12:53,958]  Have read similar_tasks.json
+Bot.py[LINE:173]# INFO     [2021-04-18 21:12:53,959]  Tg bot created and will be used
+Bot.py[LINE:179]# INFO     [2021-04-18 21:12:53,959]  Bot is ready to use
+_internal.py[LINE:113]# INFO     [2021-04-18 21:13:22,501]   * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+_internal.py[LINE:113]# ERROR    [2021-04-18 21:13:56,513]  127.0.0.1 - - [18/Apr/2021 21:13:56] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03')
+_internal.py[LINE:113]# INFO     [2021-04-18 21:13:56,514]  127.0.0.1 - - [18/Apr/2021 21:13:56] "[35m[1m  ü¼îÎÝØ[0m" HTTPStatus.BAD_REQUEST -
+_internal.py[LINE:113]# ERROR    [2021-04-18 21:13:56,516]  127.0.0.1 - - [18/Apr/2021 21:13:56] code 400, message Bad request version ('ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ZZ\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+_internal.py[LINE:113]# INFO     [2021-04-18 21:13:56,517]  127.0.0.1 - - [18/Apr/2021 21:13:56] "[35m[1m  üvådétUY¬ô°;>Å5RñÌ:jíù<Ý°& ü×ÿþ¡4º½ôÝ%!vÔÙþ4y¬-\¦ü[õ  ÊÊÀ+À/À,À0Ì©Ì¨ÀÀ   / 5 ZZ     ÿ   [0m" HTTPStatus.BAD_REQUEST -
+_internal.py[LINE:113]# ERROR    [2021-04-18 21:13:56,517]  127.0.0.1 - - [18/Apr/2021 21:13:56] code 400, message Bad request version ('éhFÄ-,\xadùPk\x8e4\x95\x80¨¨Ql¡\x18È®\x07ä\x97\x07"½Èì\\»\x00"jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+_internal.py[LINE:113]# INFO     [2021-04-18 21:13:56,517]  127.0.0.1 - - [18/Apr/2021 21:13:56] "[35m[1m  üë°Æ9Þ hZ©¶|Mº¹{H$*Óõa)A éhFÄ-,­ùPk4¨¨Ql¡È®ä"½Èì\» "jjÀ+À/À,À0Ì©Ì¨ÀÀ   / 5 [0m" HTTPStatus.BAD_REQUEST -
+_internal.py[LINE:113]# ERROR    [2021-04-18 21:13:56,518]  127.0.0.1 - - [18/Apr/2021 21:13:56] code 400, message Bad request version ('¿ü\x07Û\'\x9dó(}O%\x17é\x9a·aÀö×½\x1bÁº8¹\x00³"Bâs\x00"::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+_internal.py[LINE:113]# INFO     [2021-04-18 21:13:56,518]  127.0.0.1 - - [18/Apr/2021 21:13:56] "[35m[1m  ü´ðo	½»eyôí²BW]1½Ü¶sÒ¥äGæ 	¿üÛ'ó(}O%é·aÀö×½Áº8¹ ³"Bâs "::À+À/À,À0Ì©Ì¨ÀÀ   / 5 [0m" HTTPStatus.BAD_REQUEST -
+_internal.py[LINE:113]# ERROR    [2021-04-18 21:13:59,905]  127.0.0.1 - - [18/Apr/2021 21:13:59] code 400, message Bad request version ('\x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93**\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+_internal.py[LINE:113]# INFO     [2021-04-18 21:13:59,905]  127.0.0.1 - - [18/Apr/2021 21:13:59] "[35m[1m  üàvÏ¥ìqûÿÖå§/@]rÈeË"yXïÉ~T =kÚEz{ ¢K¦ø8ÚÂ¡HÃ¢y×ÒÆ2sr¢¾  À+À/À,À0Ì©Ì¨ÀÀ   / 5 **     ÿ   [0m" HTTPStatus.BAD_REQUEST -
+_internal.py[LINE:113]# ERROR    [2021-04-18 21:13:59,905]  127.0.0.1 - - [18/Apr/2021 21:13:59] code 400, message Bad request version ('jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93zz\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+_internal.py[LINE:113]# INFO     [2021-04-18 21:13:59,906]  127.0.0.1 - - [18/Apr/2021 21:13:59] "[35m[1m  üö"^Nzâ¾VkÈBr6NÅÆÕÄ¦8M Ù¢ôé§³4Ñø}@ingÓñÈBiìòÏ  jjÀ+À/À,À0Ì©Ì¨ÀÀ   / 5 zz     ÿ   [0m" HTTPStatus.BAD_REQUEST -
+_internal.py[LINE:113]# ERROR    [2021-04-18 21:13:59,907]  127.0.0.1 - - [18/Apr/2021 21:13:59] code 400, message Bad request version ('±ö(Ró°`fñíÔÎkÛ\x99')
+_internal.py[LINE:113]# ERROR    [2021-04-18 21:13:59,907]  127.0.0.1 - - [18/Apr/2021 21:13:59] code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03S|µ\x14\x95A¨ÃH')
+_internal.py[LINE:113]# INFO     [2021-04-18 21:13:59,907]  127.0.0.1 - - [18/Apr/2021 21:13:59] "[35m[1m  ü{z×{_®`/þºDâ¢#¤¿L ÌËÐñÞ å<Ç±ö(Ró°`fñíÔÎkÛ[0m" HTTPStatus.BAD_REQUEST -
+_internal.py[LINE:113]# INFO     [2021-04-18 21:13:59,907]  127.0.0.1 - - [18/Apr/2021 21:13:59] "[35m[1m  üS|µA¨ÃH[0m" HTTPStatus.BAD_REQUEST -
+_internal.py[LINE:113]# INFO     [2021-04-18 21:14:41,947]  127.0.0.1 - - [18/Apr/2021 21:14:41] "[37mGET / HTTP/1.1[0m" 200 -
+_internal.py[LINE:113]# INFO     [2021-04-18 21:14:41,981]  127.0.0.1 - - [18/Apr/2021 21:14:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+_internal.py[LINE:113]# INFO     [2021-04-18 21:14:52,822]   * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+_internal.py[LINE:113]# INFO     [2021-04-18 21:14:59,604]  127.0.0.1 - - [18/Apr/2021 21:14:59] "[37mGET / HTTP/1.1[0m" 200 -
+_internal.py[LINE:113]# INFO     [2021-04-18 21:15:00,513]  127.0.0.1 - - [18/Apr/2021 21:15:00] "[37mGET / HTTP/1.1[0m" 200 -
+_internal.py[LINE:113]# INFO     [2021-04-18 21:15:01,280]  127.0.0.1 - - [18/Apr/2021 21:15:01] "[37mGET / HTTP/1.1[0m" 200 -
+_internal.py[LINE:113]# INFO     [2021-04-18 21:19:49,712]   * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+Bot.py[LINE:155]# INFO     [2021-04-18 21:20:25,569]  Have read load.json
+Bot.py[LINE:160]# INFO     [2021-04-18 21:20:25,571]  Have read predmet_ids.json
+Bot.py[LINE:165]# INFO     [2021-04-18 21:20:25,590]  Have read similar_tasks.json
+Bot.py[LINE:173]# INFO     [2021-04-18 21:20:25,591]  Tg bot created and will be used
+Bot.py[LINE:179]# INFO     [2021-04-18 21:20:25,591]  Bot is ready to use
+Bot.py[LINE:210]# INFO     [2021-04-18 21:20:25,806]  Update: {'chat_id': 'tg528097933', 'text': '/stats', 'update_id': 814581589, 'user_name': 'Kirill Shishin'}
+Bot.py[LINE:210]# INFO     [2021-04-18 21:20:26,040]  Update: {'chat_id': 'tg528097933', 'text': '/start', 'update_id': 814581590, 'user_name': 'Kirill Shishin'}
+Bot.py[LINE:210]# INFO     [2021-04-18 21:20:26,484]  Update: {'chat_id': 'tg528097933', 'text': '/start', 'update_id': 814581591, 'user_name': 'Kirill Shishin'}
+Bot.py[LINE:155]# INFO     [2021-04-18 21:21:54,742]  Have read load.json
+Bot.py[LINE:160]# INFO     [2021-04-18 21:21:54,744]  Have read predmet_ids.json
+Bot.py[LINE:165]# INFO     [2021-04-18 21:21:54,763]  Have read similar_tasks.json
+Bot.py[LINE:173]# INFO     [2021-04-18 21:21:54,764]  Tg bot created and will be used
+Bot.py[LINE:179]# INFO     [2021-04-18 21:21:54,764]  Bot is ready to use
+_internal.py[LINE:113]# INFO     [2021-04-18 22:47:51,041]   * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+_internal.py[LINE:113]# ERROR    [2021-04-18 22:48:14,760]  127.0.0.1 - - [18/Apr/2021 22:48:14] code 400, message Bad request version ('ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93jj\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+_internal.py[LINE:113]# INFO     [2021-04-18 22:48:14,760]  127.0.0.1 - - [18/Apr/2021 22:48:14] "[35m[1m  üÝC{oìnH¤nöàJKüþoSà£í;¸¨% ¡M8£	«Å9èCÄæ\>ÓH%§BÉ4ìv-¤  ººÀ+À/À,À0Ì©Ì¨ÀÀ   / 5 jj     ÿ   [0m" HTTPStatus.BAD_REQUEST -
+_internal.py[LINE:113]# ERROR    [2021-04-18 22:48:14,760]  127.0.0.1 - - [18/Apr/2021 22:48:14] code 400, message Bad request version ('\x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ªª\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+_internal.py[LINE:113]# INFO     [2021-04-18 22:48:14,761]  127.0.0.1 - - [18/Apr/2021 22:48:14] "[35m[1m  ü7Í{x&6 ?Ø³L4Ë[¥Q´+¨í'zn¥! )¿*ÉîòA/fZlÿ¬úD1Ù-¶T^þß  À+À/À,À0Ì©Ì¨ÀÀ   / 5 ªª     ÿ   [0m" HTTPStatus.BAD_REQUEST -
+_internal.py[LINE:113]# ERROR    [2021-04-18 22:48:14,761]  127.0.0.1 - - [18/Apr/2021 22:48:14] code 400, message Bad request version ('\x9e\x99ÃP,L\x14\x1a\x9b°èµ')
+_internal.py[LINE:113]# INFO     [2021-04-18 22:48:14,762]  127.0.0.1 - - [18/Apr/2021 22:48:14] "[35m[1m  ü!­¾¾Í ¸ÃP,L°èµ[0m" HTTPStatus.BAD_REQUEST -
+_internal.py[LINE:113]# ERROR    [2021-04-18 22:48:14,762]  127.0.0.1 - - [18/Apr/2021 22:48:14] code 400, message Bad request version ('oþÆu\x97\x94eyTwñ\x00"ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+_internal.py[LINE:113]# INFO     [2021-04-18 22:48:14,762]  127.0.0.1 - - [18/Apr/2021 22:48:14] "[35m[1m  ü;¢ê§5²¸ßúÏ9ûá	Në§P®R>Q UÌ0 !/@xi×hÒÕoþÆueyTwñ "ZZÀ+À/À,À0Ì©Ì¨ÀÀ   / 5 [0m" HTTPStatus.BAD_REQUEST -
+_internal.py[LINE:113]# ERROR    [2021-04-18 22:48:14,764]  127.0.0.1 - - [18/Apr/2021 22:48:14] code 400, message Bad request version ('JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x1a\x1a\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+_internal.py[LINE:113]# INFO     [2021-04-18 22:48:14,764]  127.0.0.1 - - [18/Apr/2021 22:48:14] "[35m[1m  üK fÿP/ËÐûôþgC±È2Egg¨½:º0[×Àô ® à1Ío7^:<ÊpÀðz®´^	î Jøá@  JJÀ+À/À,À0Ì©Ì¨ÀÀ   / 5      ÿ   [0m" HTTPStatus.BAD_REQUEST -
+_internal.py[LINE:113]# ERROR    [2021-04-18 22:48:14,765]  127.0.0.1 - - [18/Apr/2021 22:48:14] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03q¨çX\x19\x9cP\x8d\x15')
+_internal.py[LINE:113]# INFO     [2021-04-18 22:48:14,766]  127.0.0.1 - - [18/Apr/2021 22:48:14] "[35m[1m  üq¨çXPHþzÁAuä£q(ïÑB6ë8Ä[0m" HTTPStatus.BAD_REQUEST -
+_internal.py[LINE:113]# INFO     [2021-04-18 22:48:32,038]  127.0.0.1 - - [18/Apr/2021 22:48:32] "[37mGET / HTTP/1.1[0m" 200 -
+_internal.py[LINE:113]# INFO     [2021-04-18 22:52:51,160]   * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+_internal.py[LINE:113]# INFO     [2021-04-18 22:52:55,066]  127.0.0.1 - - [18/Apr/2021 22:52:55] "[37mGET / HTTP/1.1[0m" 200 -
+_internal.py[LINE:113]# INFO     [2021-04-18 22:52:55,087]  127.0.0.1 - - [18/Apr/2021 22:52:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+_internal.py[LINE:113]# INFO     [2021-04-18 23:04:35,315]   * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+_internal.py[LINE:113]# INFO     [2021-04-18 23:04:38,955]  127.0.0.1 - - [18/Apr/2021 23:04:38] "[37mGET / HTTP/1.1[0m" 200 -
+_internal.py[LINE:113]# INFO     [2021-04-18 23:04:41,296]  127.0.0.1 - - [18/Apr/2021 23:04:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+_internal.py[LINE:113]# INFO     [2021-04-18 23:04:45,998]  127.0.0.1 - - [18/Apr/2021 23:04:45] "[37mGET / HTTP/1.1[0m" 200 -
+_internal.py[LINE:113]# INFO     [2021-04-18 23:04:48,276]  127.0.0.1 - - [18/Apr/2021 23:04:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+_internal.py[LINE:113]# INFO     [2021-04-18 23:04:48,855]  127.0.0.1 - - [18/Apr/2021 23:04:48] "[37mGET / HTTP/1.1[0m" 200 -
+_internal.py[LINE:113]# INFO     [2021-04-18 23:04:49,603]  127.0.0.1 - - [18/Apr/2021 23:04:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+_internal.py[LINE:113]# INFO     [2021-04-18 23:05:00,026]  127.0.0.1 - - [18/Apr/2021 23:05:00] "[37mGET / HTTP/1.1[0m" 200 -
+_internal.py[LINE:113]# INFO     [2021-04-18 23:05:47,985]   * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+Bot.py[LINE:155]# INFO     [2021-04-21 22:38:49,796]  Have read load.json
+Bot.py[LINE:160]# INFO     [2021-04-21 22:38:49,798]  Have read predmet_ids.json
+Bot.py[LINE:165]# INFO     [2021-04-21 22:38:49,816]  Have read similar_tasks.json
+Bot.py[LINE:173]# INFO     [2021-04-21 22:38:49,817]  Tg bot created and will be used
+Bot.py[LINE:179]# INFO     [2021-04-21 22:38:49,817]  Bot is ready to use
+Bot.py[LINE:210]# INFO     [2021-04-21 22:38:50,033]  Update: {'chat_id': 'tg528097933', 'text': '/help', 'update_id': 814581592, 'user_name': 'Kirill Shishin'}
+Bot.py[LINE:210]# INFO     [2021-04-21 22:38:50,274]  Update: {'chat_id': 'tg528097933', 'text': '/help', 'update_id': 814581593, 'user_name': 'Kirill Shishin'}
+Bot.py[LINE:210]# INFO     [2021-04-21 22:38:50,533]  Update: {'chat_id': 'tg528097933', 'text': '/help', 'update_id': 814581594, 'user_name': 'Kirill Shishin'}
+Bot.py[LINE:210]# INFO     [2021-04-21 22:38:50,754]  Update: {'chat_id': 'tg528097933', 'text': '/help', 'update_id': 814581595, 'user_name': 'Kirill Shishin'}
+Bot.py[LINE:210]# INFO     [2021-04-21 22:38:50,964]  Update: {'chat_id': 'tg528097933', 'text': '/help', 'update_id': 814581596, 'user_name': 'Kirill Shishin'}
